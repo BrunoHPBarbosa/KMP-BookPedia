@@ -1,17 +1,20 @@
-# Online Shop App
+# BookPedia App
 
-Create a native android app, using Firebase.
+Create a Multiplataform app for desktop, ios, android, using KMP.
 
 
 ## :movie_camera: Video
-<img src="https://github.com/user-attachments/assets/798da6b6-efdf-4fdc-9664-5da6c3be7eb6" width="250">&emsp;<img src="https://github.com/user-attachments/assets/6fe7025d-0f1c-45f8-90c3-4b9a5784f6c2" width="250">&emsp;<img src="https://github.com/user-attachments/assets/0160c9b4-9000-403c-b707-91f621b5c37b" width="250">
+<img src="https://github.com/user-attachments/assets/85e4e9a2-0a2c-49be-9938-d9c3ec8f5909" width="250">&emsp;<img src="https://github.com/user-attachments/assets/f15976f7-9a48-421e-b475-a48745bcaede" width="250">&emsp;<img src="https://github.com/user-attachments/assets/36a0699c-e96d-443d-b1ae-a6999501d1b1" width="518">
 ## :camera_flash: Screenshots
-<img src="https://github.com/user-attachments/assets/d24f28d2-59fa-4c36-b45a-69c1c22ab4f9" width="250">&emsp;
-<img src="https://github.com/user-attachments/assets/cd205a05-cdf6-498f-8d41-8de9877c4262" width="250">&emsp;
-<img src="https://github.com/user-attachments/assets/81c4e84b-217e-4569-95ee-22b01cdd967f" width="250">&emsp;
-<img src="https://github.com/user-attachments/assets/62b7a2c6-3f52-4f82-8ca8-a2a7bbe71891" width="250">&emsp;
-
-
+<img src="https://github.com/user-attachments/assets/95a69fd1-a4f6-44f4-8962-31122bcd5295" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/44181a53-e3b0-40a0-bfec-09a64d5335a4" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/16d07be5-b6af-4752-b610-e5f8ed8bb931" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/37db51be-089b-4bfd-94e4-4582bd6c1cf8" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/bfdc45f6-f5c1-44de-a633-a689a5867ef0" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/ab61bc43-1735-4586-9cb6-3527cbee67fd" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/ef90e482-0b34-4db1-974a-a81be6e510b2" width="250">&emsp;
+<img src="https://github.com/user-attachments/assets/675343f6-5539-455f-a249-9ae01a1130fa" width="500">&emsp;
+<img src="https://github.com/user-attachments/assets/2ee53745-13e8-47b0-96b9-4ab243fcaf5c" width="500">&emsp;
 
 
 🛠️ Technologies used
