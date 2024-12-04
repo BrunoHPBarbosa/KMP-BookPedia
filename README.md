@@ -1,10 +1,10 @@
 # BookPedia App
 
-Create a Multiplataform app for desktop, ios, android, using KMP.
+This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 ## :movie_camera: Video
-<img src="https://github.com/user-attachments/assets/85e4e9a2-0a2c-49be-9938-d9c3ec8f5909" width="250">&emsp;<img src="https://github.com/user-attachments/assets/f15976f7-9a48-421e-b475-a48745bcaede" width="250">&emsp;<img src="https://github.com/user-attachments/assets/36a0699c-e96d-443d-b1ae-a6999501d1b1" width="518">
+<img src="https://github.com/user-attachments/assets/85e4e9a2-0a2c-49be-9938-d9c3ec8f5909" width="250">&emsp;<img src="https://github.com/user-attachments/assets/f1318e36-c859-4ffe-a67a-b488e974ea98" width="250">&emsp;<img src="https://github.com/user-attachments/assets/f15976f7-9a48-421e-b475-a48745bcaede" width="250">&emsp;<img src="https://github.com/user-attachments/assets/36a0699c-e96d-443d-b1ae-a6999501d1b1" width="518">
 ## :camera_flash: Screenshots
 <img src="https://github.com/user-attachments/assets/95a69fd1-a4f6-44f4-8962-31122bcd5295" width="250">&emsp;
 <img src="https://github.com/user-attachments/assets/44181a53-e3b0-40a0-bfec-09a64d5335a4" width="250">&emsp;
@@ -16,36 +16,6 @@ Create a Multiplataform app for desktop, ios, android, using KMP.
 <img src="https://github.com/user-attachments/assets/675343f6-5539-455f-a249-9ae01a1130fa" width="500">&emsp;
 <img src="https://github.com/user-attachments/assets/2ee53745-13e8-47b0-96b9-4ab243fcaf5c" width="500">&emsp;
 
-
-🛠️ Technologies used
-
-- Kotlin
-- Clean Architecture
-- MVVM
-- Glide
-- Jetpack Components (ViewBinding)
-
-  * Clean Architecture:
-    - Separação de conceitos;
-    - Interface com base em modelos de dados;
-    - Única fonte de informações;
-    - Fonte: https://developer.android.com/topic/architecture?hl=pt-br
-   
-      * MVVM:
-    - Separação de responsabilidades;
-    - Facilidade de manutenção;
-    - Testabilidade.
-     
-  
- * Glide 
-  - É uma estrutura de gerenciamento de mídia e carregamento de imagens de código aberto rápida e eficiente para Android com uma  interface simples e fácil de usar.
-
- * Splash Screen
-   - Utlizei a nova forma de se criar uma splash screen , mais rapida e simples , mas tambem utilizei outra forma em que adiciono um gif como tela inicial do app 
-
-
-
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
